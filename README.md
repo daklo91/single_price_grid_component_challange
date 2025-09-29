@@ -1,4 +1,3 @@
-# Challange 1
-Just a challange I did while waiting.
+Challenge from frontendmentor: https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc <br>
 
-The challanges can be found [here](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5aj "Frontend Mentor's Homepage")
+Solution: https://daklo-single-price-grid.netlify.app/
